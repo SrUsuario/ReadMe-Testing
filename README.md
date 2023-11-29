@@ -6,7 +6,7 @@ Este repositorio es para probar diferentes formas de docorar el README del usuar
 
 ![SrUsuario's GitHub stats](https://github-readme-stats.vercel.app/api?username=srusuario&show_icons=true&theme=radical)
 
-![SrUsuario's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srusuario&layout=compact)
+![SrUsuario's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srusuario&layout=compact&theme=radical)
 
 ## Estadísticas a nivel de contribuciones
 
