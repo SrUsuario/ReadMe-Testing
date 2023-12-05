@@ -1,6 +1,6 @@
 # ReadMe-Testing
 
-Este repositorio es para probar diferentes formas de docorar el README del usuario de GitHub
+Este repositorio es para probar diferentes formas de decorar el README del usuario de GitHub
 
 ## Estadísticas a nivel de SrUsuario
 
