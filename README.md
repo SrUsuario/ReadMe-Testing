@@ -2,7 +2,7 @@
 
 Este repositorio es para probar diferentes formas de decorar el README del usuario de GitHub mediante GitHub Actions
 
-## Introducción del Readms del usuario
+## Introducción del ReadMe del usuario
 
 Hi 👋, I'm RaulDev and I'm a future web developer 💻.
 
