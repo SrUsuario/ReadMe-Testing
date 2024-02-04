@@ -12,13 +12,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        # Variables
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name $user_name
+          git config user.email $user_email
           git add -A .
           git commit -m "Generate EXPERIMENTAL"
           git push
