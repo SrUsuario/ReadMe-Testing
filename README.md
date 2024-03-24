@@ -2,17 +2,11 @@
 
 Este repositorio es para probar diferentes formas de decorar el README del usuario de GitHub mediante GitHub Actions
 
-## Introducción del ReadMe del usuario
-
-Hi 👋, I'm RaulDev and I'm a future web developer 💻.
-
-Here you can see my stats and my public repositories.
-
 ## Estadísticas a nivel del usuario
 
-![SrUsuario's GitHub stats](https://github-readme-stats.vercel.app/api?username=srusuario&show_icons=true&theme=radical)
+![SrUsuario's GitHub stats](https://github-readme-stats.vercel.app/api?username=devparada&show_icons=true&theme=radical)
 
-![SrUsuario's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srusuario&layout=compact&theme=radical)
+![SrUsuario's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devparada&layout=compact&theme=radical)
 
 ## Skills ##
 
